@@ -29,7 +29,7 @@ You may be able to install the above Python packages by:
 # Install Mosek
 pip install -f https://download.mosek.com/stable/wheel/index.html Mosek --user # skip --user for a system-wide installation
 # Install other packages
-pip install numpy, scipy, matplotlib, tabulate --user # skip --user for a system-wide installation
+pip install numpy scipy matplotlib tabulate --user # skip --user for a system-wide installation
 ```
 
 ### Step by step walkthrough
